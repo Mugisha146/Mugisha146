@@ -1,6 +1,7 @@
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <h1 align="center">Hey 👋, I'm Emmanuel MUGISHA</h1>
 <h3 align="center">A passionate Software Developer | Full Stack Web Developer | Mobile Developer (React Native)</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugisha146&label=Profile%20views&color=0e75b6&style=flat" alt="mugisha146" /> </p>
 
