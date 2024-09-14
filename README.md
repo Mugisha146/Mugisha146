@@ -2,7 +2,7 @@
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
   alt="Coding" 
   width="400" 
-  style="float: right; margin-top: 50px; margin-left: 20px;" 
+  style="float: right; padding-top: 50px;" 
 />
 
 <h1 align="center">Hey 👋, I'm Emmanuel MUGISHA</h1>
