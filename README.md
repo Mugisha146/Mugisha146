@@ -3,13 +3,9 @@
 <h1 align="center">Hey 👋, I'm Emmanuel MUGISHA</h1>
 <h3 align="center">A passionate Software Developer | Full Stack Web Developer | Mobile Developer (React Native)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mugisha146&label=Profile%20views&color=0e75b6&style=flat" alt="mugisha146" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mugisha146" alt="mugisha146" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/el3_mugisha" target="blank"><img src="https://img.shields.io/twitter/follow/el3_mugisha?logo=twitter&style=for-the-badge" alt="el3_mugisha" /></a> </p>
 
-- 📫 How to reach me **emmyzizo1@gmail.com**
+- 📫 Reach me on email: **emmyzizo1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
