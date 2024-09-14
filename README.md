@@ -9,9 +9,9 @@
   style="padding-top: 50px;" 
 />
 
-<h3 align="center">A passionate Software Developer | Full Stack Web Developer | Mobile Developer (React Native)</h3>
+<h3 align="left">A passionate Software Developer | Full Stack Web Developer | Mobile Developer (React Native)</h3>
 
-<p align="left"> <a href="https://twitter.com/el3_mugisha" target="blank"><img src="https://img.shields.io/twitter/follow/el3_mugisha?logo=twitter&style=for-the-badge" alt="el3_mugisha" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/1_mugisha/" target="blank"><img src="https://img.shields.io/twitter/follow/el3_mugisha?logo=twitter&style=for-the-badge" alt="el3_mugisha" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
