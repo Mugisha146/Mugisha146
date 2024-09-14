@@ -1,4 +1,9 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img 
+  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
+  alt="Coding" 
+  width="400" 
+  style="float: right; margin-top: 50px; margin-left: 20px;" 
+/>
 
 <h1 align="center">Hey 👋, I'm Emmanuel MUGISHA</h1>
 <h3 align="center">A passionate Software Developer | Full Stack Web Developer | Mobile Developer (React Native)</h3>
