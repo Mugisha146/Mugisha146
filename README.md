@@ -1,3 +1,5 @@
+<h1 align="center">Hey 👋, I'm Emmanuel MUGISHA</h1>
+
 <img 
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
   alt="Coding" 
@@ -6,7 +8,6 @@
   style="padding-top: 50px;" 
 />
 
-<h1 align="center">Hey 👋, I'm Emmanuel MUGISHA</h1>
 <h3 align="center">A passionate Software Developer | Full Stack Web Developer | Mobile Developer (React Native)</h3>
 
 <p align="left"> <a href="https://twitter.com/el3_mugisha" target="blank"><img src="https://img.shields.io/twitter/follow/el3_mugisha?logo=twitter&style=for-the-badge" alt="el3_mugisha" /></a> </p>
